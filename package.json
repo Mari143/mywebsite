@@ -1,0 +1,9 @@
+{
+  "name": "ammar-ali-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio site with Netlify-backed blog view and like counters.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
